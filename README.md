@@ -18,7 +18,7 @@ A simple and responsive Image Slider (Carousel) built using **HTML**, **CSS**, a
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ---
 
@@ -29,4 +29,4 @@ A simple and responsive Image Slider (Carousel) built using **HTML**, **CSS**, a
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/partha-x-dev/image-slider.git
+   git clone https://github.com/Partha-x-dev/image-slider.git
